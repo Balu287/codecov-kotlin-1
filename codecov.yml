@@ -1,0 +1,3 @@
+fixes:
+  - "src/main/org/jacoco/examples/mvn/kotlin/::src/main/kotlin/"
+  - "src/test/org/jacoco/examples/mvn/kotlin/::src/test/kotlin/"
